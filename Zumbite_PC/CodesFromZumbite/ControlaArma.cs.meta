@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 83ff39a8c5aaed645af2f7bb78666e7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bala: {fileID: 2723552730938212325, guid: acf5a6efb08a65c4188dc383bd2d86a3, type: 3}
+  - CanoDaArma: {fileID: 100000, guid: 1e3d65b4fdfdca44bbbc53bd5cbcfe99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
