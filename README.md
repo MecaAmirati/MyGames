@@ -1,1 +1,1 @@
-# MyGames
+Game projects of mine.
